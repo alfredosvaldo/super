@@ -1,10 +1,420 @@
-Group,Title,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
-a,Trinity College,https://www.edx.org/sites/default/files/trinity1.jpg,"Not in the link <a href=""http://www.trincoll.edu"" target=""_blank"">view website</a> more not in the link","300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-a,Wesleyan University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://wesleyan.edu"" target=""_blank"">view website</a>",45 Wyllys Ave Middletown CT 06459,41.55709,-72.65691,"45 WYLLYS AVE, MIDDLETOWN, CT, 06459",Exact,US Census
-a,Connecticut College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://conncoll.edu"" target=""_blank"">view website</a>","270 Mohegan Ave, New London CT",41.381435,-72.10469,"270 MOHEGAN AVE PKWY, NEW LONDON, CT, 06320",Match,US Census
-a,Yale University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://yale.edu"" target=""_blank"">view website</a>",149 Elm St New Haven CT,41.309155,-72.92635,"149 ELM ST, NEW HAVEN, CT, 06511",Match,US Census
-a,University of Connecticut-Storrs,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://uconn.edu"" target=""_blank"">view website</a>","369 Fairfield Way, Storrs CT 06269",41.80665,-72.25352,"369 FAIRFIELD RD, STORRS, CT, 06269",Match,US Census
-a,Capital Community College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://capitalcc.edu"" target=""_blank"">view website</a>",950 Main St Hartford CT,41.69861,-72.72414,"950 MAIN ST, HARTFORD, CT, 06111",Match,US Census
-b,Dinosaur State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.dinosaurstatepark.org/"" target=""_blank"">view website</a>",400 West St Rock Hill CT 06067,41.652546,-72.65743,"400 WEST ST, ROCKY HILL, CT, 06067",Match,US Census
-b,Hammonasset State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.ct.gov/deep/hammonasset"" target=""_blank"">view website</a>","1288 Boston Post Road, Madison CT 06443",41.273247,-72.56934,"1288 BOSTON POST RD, MADISON, CT, 06443",Match,US Census
-c,State Capitol Building,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",41.762848,-72.68245,"210 CAPITOL AVE, HARTFORD, CT, 06106",Exact,US Census
+Title,Latitude,Longitude 
+Lider,-33.5105866,-70.7572607
+Superbodega Acuenta,-33.7314234,-70.7418119
+Express de Lider,-33.7364015,-70.7369654
+Lider,-33.51649226,-70.70879422
+Express de Lider,-33.4983477,-70.7286022
+Central Mayorista,-33.4858329,-70.7506586
+Express de Lider,-33.27674339,-70.62802187
+Express de Lider,-33.2180483,-70.68541842
+Lider,-33.3908815,-70.6765145
+Superbodega Acuenta,-33.3958719,-70.6807315
+Lider,-33.5463949,-70.6674997
+Superbodega Acuenta,-33.5726921,-70.6661597
+Superbodega Acuenta,-33.6815105,-70.9819157
+Lider,-33.4527444,-70.6921275
+Express de Lider,-33.4570258,-70.7059676
+Express de Lider,-33.4639662,-70.7048059
+Lider,-33.3649022,-70.6793522
+Superbodega Acuenta,-33.3788109,-70.6390251
+Express de Lider,-33.3526467,-70.6705443
+Express de Lider,-33.42352473,"-33.423524728931916, -70.65566268257777"
+Express de Lider,-33.41742059,-70.6562722
+Superbodega Acuenta,-33.4226736,-70.6619234
+Superbodega Acuenta,-33.7515628,-70.9005619
+Express de Lider,-33.5338558,-70.6632143
+Lider,-33.519368,-70.6021578
+Lider,-33.5175026,-70.5966375
+Lider,-33.5119906,-70.5917498
+Lider,-33.5435414,-70.5649316
+Express de Lider,-33.5218181,-70.5907041
+Express de Lider,-33.5453581,-70.586366
+Express de Lider,-33.5344898,-70.5937657
+Express de Lider,-33.5363278,-70.5538472
+Lider,-33.58638112,-70.62710221
+Lider,-33.4607293,-70.5455738
+Lider,-33.4408349,-70.5352319
+Superbodega Acuenta,-33.2844698,-70.8781311
+Express de Lider,-33.4187221,-70.5521347
+Express de Lider,-33.385023,-70.5334656
+Express de Lider,-33.4285697,-70.5743675
+Express de Lider,-33.4085011,-70.5680465
+Express de Lider,-33.4249239,-70.5534522
+Lider,-33.4019711,-70.5158954
+Express de Lider,-33.4258211,-70.5773154
+Express de Lider,-33.413517,-70.5832512
+xpress de Lider,-33.4142617,-70.5660247
+Express de Lider,-33.390551,-70.498687
+Express de Lider,-33.3522735,-70.520731
+Lider,-33.3696801,-70.5121767
+Express de Lider,-33.3601254,-70.5058903
+Superbodega Acuenta,-33.5088378,-70.6775836
+Lider,-33.4451487,-70.7240023
+Lider,-33.4745205,-70.5995577
+Express de Lider,-33.4848156,-70.5852664
+Express de Lider,-33.5021346,-70.6004175
+Lider,-33.472011,-70.7574505
+Lider,-33.5025278,-70.7564325
+Express de Lider,-33.5103849,-70.7777785
+Lider,-33.4807518,-70.7467687
+Express de Lider,-33.4852587,-70.7361866
+Superbodega Acuenta,-33.5050842,-70.7901936
+Express de Lider,-33.5127901,-70.7756855
+Express de Lider,-33.4924051,-70.7393682
+Express de Lider,-33.5449062,-70.7691856
+Express de Lider,-33.5157576,-70.7477042
+Express de Lider,-33.4702049,-70.750625
+Express de Lider,-33.5361516,-70.786446
+Express de Lider,-33.479106,-70.7317207
+Express de Lider,-33.5245171,-70.7920774
+Superbodega Acuenta,-33.5206006,-70.7624723
+Superbodega Acuenta,-33.5538964,-70.7952913
+Lider,32.7303114,-103.1442334
+Express de Lider,-33.4796412,-70.757206
+Superbodega Acuenta,37.3021632,-120.4829677
+Express de Lider,-33.565352,-70.7989646
+Express de Lider,-33.5611598,-70.8275044
+Superbodega Acuenta,-33.8081695,-70.7378087
+Express de Lider,-33.4980294,-70.6877292
+Express de Lider,-33.6114432,-70.8792096
+Superbodega Acuenta,-33.606931,-70.897687
+Lider,-33.6081184,-70.8556239
+Lider,-33.484913,-70.5792476
+Central Mayorista,-33.5066904,-70.5871022
+Superbodega Acuenta,-33.4699434,-70.5531733
+Express de Lider,-33.4878946,-70.5496408
+Express de Lider,-33.4227225,-70.6083735
+Express de Lider,-33.4400091,-70.6085738
+Express de Lider,-33.4293638,-70.6198736
+Express de Lider,-33.4228677,-70.5967158
+Express de Lider,-33.4407539,-70.6306076
+Express de Lider,-33.4266276,-70.6163582
+Express de Lider,-33.4255098,-70.5924109
+Express de Lider,-33.4453544,-70.6197281
+Express de Lider,-33.4363793,-70.6012918
+Express de Lider,-33.4331637,-70.6165208
+Express de Lider,-33.4468191,-70.6293088
+Express de Lider,-33.4618583,-70.742833
+Express de Lider,-33.4416368,-70.7623561
+Superbodega Acuenta,-33.4573879,-70.7402563
+Express de Lider,-33.4475307,-70.8438262
+Central Mayorista,-33.440794,-70.7752238
+Lider,-33.5672901,-70.5581001
+Lider,-33.6004018,-70.5771794
+Superbodega Acuenta,-33.61400417,-70.59751819
+Express de Lider,-33.6089154,-70.5739447
+Express de Lider,-33.5955486,-70.590797
+Superbodega Acuenta,-33.5824275,-70.6056966
+Express de Lider,-33.5805063,-70.5695338
+Express de Lider,-33.5593061,-70.5520833
+Express de Lider,-33.5937289,-70.5593054
+Lider,-33.3561727,-70.7276142
+Express de Lider,-33.3521682,-70.7385683
+Express de Lider,-33.3583266,-70.7213539
+Lider,-33.35918503,-70.74604215
+Express de Lider,-33.374462,-70.715578
+Express de Lider,-33.4231907,-70.6940907
+Superbodega Acuenta,-33.4159662,-70.7122782
+Superbodega Acuenta,-33.4279855,-70.7043015
+Lider,-33.3932796,-70.6411977
+Express de Lider,-33.4054128,-70.6433579
+Express de Lider,-33.4096743,-70.6356605
+Express de Lider,-33.4330244,-70.6432889
+Express de Lider,-33.4219443,-70.6446989
+Express de Lider,-33.4477732,-70.6512075
+Superbodega Acuenta,-33.4023553,-70.7028291
+Lider,-33.5977822,-70.699562
+Superbodega Acuenta,-33.6089568,-70.7029352
+Superbodega Acuenta,-33.583152,-70.675932
+Lider,-33.6316777,-70.7105476
+Lider,-33.4842572,-70.6222371
+Lider,-33.5118538,-70.6568093
+Express de Lider,-33.4912242,-70.650213
+Express de Lider,-33.5123828,-70.6646651
+Lider,-33.5455204,-70.6345058
+Express de Lider,-33.4393406,-70.6486104
+Express de Lider,-33.4460397,-70.6427294
+Express de Lider,-33.435588,-70.676284
+Express de Lider,-33.4340725,-70.6532831
+Express de Lider,-33.4490082,-70.673759
+Express de Lider,-33.4519481,-70.6655015
+Express de Lider,-33.4486818,-70.6390135
+Express de Lider,-33.4455579,-70.6368113
+Express de Lider,-33.4370877,-70.6475827
+Express de Lider,-33.4379839,-70.644776
+Express de Lider,-33.4541475,-70.6574624
+Express de Lider,-33.4349732,-70.6709439
+Express de Lider,-33.4361546,-70.6519745
+Express de Lider,-33.4440716,-70.6569066
+Express de Lider,-33.4456641,-70.6458913
+Express de Lider,-33.4499918,-70.6346674
+Lider,-33.6623746,-70.9252406
+Express de Lider,-33.3994116,-70.5907144
+Lider,-33.3868748,-70.567914
+Express de Lider,-33.396312,-70.582006
+Lider,-33.4536853,-70.6010681
+Express de Lider,-33.4557935,-70.6269773
+Lider,-33.4216168,-70.5811095
+Express de Lider,-33.4535898,-70.5739724
+Express de Lider,-33.4538146,-70.6060457
+Express de Lider,-33.4496918,-70.6214523
+Express de Lider,-33.4560281,-70.6150697
+Express de Lider,-33.4730214,-70.6065521
+Express de Lider,-33.4486393,-70.580456
+Express de Lider,-33.4451887,-70.5994492
+Express de Lider,-33.453544,-70.6216162
+Jumbo,-33.3214565,-70.6461236
+Jumbo,-33.2859788,-70.7000345
+Jumbo,-33.4246863,-70.654728
+Jumbo,-33.511334,-70.6102933
+Jumbo,-33.4300363,-70.5787364
+Jumbo,-33.3908833,-70.5462013
+Jumbo,-33.4279259,-70.5408096
+Jumbo,-33.4019444,-70.5144444
+Jumbo,-33.3573513,-70.5151516
+Jumbo,-33.3429457,-70.5446907
+Jumbo,-33.4801799,-70.7516006
+Jumbo,-33.4972166,-70.7583808
+Jumbo,-33.4653165,-70.5974595
+Jumbo,-33.4881439,-70.5567856
+Jumbo,-33.4181063,-70.6082252
+Jumbo,-33.5711381,-70.5847144
+Jumbo,-33.6118321,-70.5766256
+Jumbo,-33.633671,-70.7092268
+Jumbo,-33.4859744,-70.6516071
+Jumbo,-33.3998052,-70.5924004
+Santa Isabel,-33.6371045,-70.5764507
+Santa Isabel,-33.3731374,-70.682323
+Santa Isabel,-33.5595189,-70.7843113
+Santa Isabel,-33.6154466,-70.684809
+Santa Isabel,-33.4076958,-70.553731
+Santa Isabel,-33.4107099,-70.5671169
+Santa Isabel,-33.4408033,-70.6520075
+Santa Isabel,-33.435676,-70.591395
+Santa Isabel,-33.4548663,-70.6295797
+Santa Isabel,-33.6233363,-70.7988698
+Santa Isabel,-33.3740919,-70.5187076
+Santa Isabel,-33.4240619,-70.7089945
+Santa Isabel,-33.5605104,-70.7867699
+Santa Isabel,-33.2066092,-70.6663387
+Santa Isabel,-33.4388201,-70.6589594
+Santa Isabel,-33.4786583,-70.5448473
+Santa Isabel,-33.4036121,-71.1323014
+Santa Isabel,-33.3986463,-70.6694979
+Santa Isabel,-33.4442571,-70.6564865
+Santa Isabel,-33.5495287,-70.5689877
+Santa Isabel,-33.5498853,-70.6728203
+Santa Isabel,-33.5475518,-70.7894644
+Santa Isabel,-33.3530895,-70.5103297
+Santa Isabel,-33.5973647,-70.5095549
+Santa Isabel,-33.4517285,-70.6798013
+Santa Isabel,-33.6084644,-70.7057884
+Santa Isabel,-33.4228802,-70.538532
+Santa Isabel,-33.4723205,-70.6423664
+Santa Isabel,-33.4517232,-70.6641075
+Santa Isabel,-33.4706022,-70.57539
+Santa Isabel,-33.4398218,-70.6574624
+Santa Isabel,-33.5384545,-70.6640511
+Santa Isabel,-33.5179003,-70.6586837
+Santa Isabel,-33.4912381,-70.7771748
+Santa Isabel,-33.5401657,-70.5724154
+Santa Isabel,-33.5281695,-70.6349705
+Santa Isabel,-33.7410535,-70.8618942
+Santa Isabel,-33.5865384,-70.6292544
+Santa Isabel,-33.4503753,-70.7633431
+Santa Isabel,-33.4528206,-70.5607959
+Santa Isabel,-33.4576117,-70.7122395
+Santa Isabel,-33.3828935,-70.7301354
+Santa Isabel,-33.3594296,-70.7452756
+Santa Isabel,-33.4075974,-70.5455971
+Santa Isabel,-33.5509035,-70.6192834
+Santa Isabel,-33.509606,-70.7580121
+Santa Isabel,-33.6920396,-71.2149362
+Santa Isabel,-33.4338719,-70.6498413
+Santa Isabel,-33.5011426,-70.6683361
+Santa Isabel,-33.5693042,-70.8156442
+Santa Isabel,-33.8086459,-70.7418034
+Santa Isabel,-33.4773072,-70.7405429
+Santa Isabel,-33.4862461,-70.7496261
+Santa Isabel,-33.4518488,-70.5408096
+Santa Isabel,-33.3473927,-70.6700098
+Santa Isabel,-33.6105711,-70.8813926
+Santa Isabel,-33.4408143,-70.5426223
+Santa Isabel,-33.601623,-70.5791842
+Santa Isabel,-33.4431255,-70.6375818
+Santa Isabel,-33.4219353,-70.6106651
+Santa Isabel,-33.402455,-70.643591
+Santa Isabel,-33.4067666,-70.7013277
+Santa Isabel,-33.4483193,-70.6513748
+Santa Isabel,-33.4410838,-70.7018853
+Santa Isabel,-33.6600439,-70.9181163
+Santa Isabel,-33.5035016,-70.561493
+Santa Isabel,-33.5043251,-70.7802194
+Santa Isabel,-33.5464428,-70.5895654
+Santa Isabel,-33.3637085,-70.7374389
+Santa Isabel,-33.6810869,-71.2021072
+Santa Isabel,-33.3915023,-70.5719739
+Santa Isabel,-33.419685,-70.6629922
+Tottus,-33.3902321,-70.6197329
+Tottus,-33.2049306,-70.6753691
+Tottus,-33.3541036,-70.678443
+Tottus,-33.4538127,-70.6522577
+Tottus,-33.3571388,-70.7297173
+Tottus,-33.4230856,-70.6453112
+Tottus,-33.4505688,-70.6321822
+Tottus,-33.4187035,-70.6637211
+Tottus,-33.4526736,-70.6822765
+Tottus,-33.4388976,-70.6632246
+Tottus,-33.5625753,-70.6816606
+Tottus,-33.5395221,-70.6651126
+Tottus,-33.5238031,-70.5987908
+Tottus,-33.5178561,-70.7139526
+Tottus,-33.5224781,-70.5575121
+Tottus,-33.5693035,-70.5561247
+Tottus,-33.5976477,-70.5769237
+Tottus,-33.7316516,-70.7348746
+Tottus,-33.67997,-70.97968
+Tottus,-33.6846107,-71.2134975
+Tottus,-33.5713965,-70.8179451
+Tottus,-33.6076323,-70.9003389
+Tottus,-33.6565933,-70.912239
+Tottus,-33.6630601,-70.9317384
+Tottus,-33.3036621,-70.6663798
+Tottus,-33.4417598,-70.6256687
+Tottus,-33.4155275,-70.5402562
+Tottus,-33.4524377,-70.5694704
+Tottus,-33.499291,-70.5552495
+Tottus,-33.3837415,-70.5494549
+Tottus,-33.3867539,-70.5655599
+Tottus,-33.5944161,-70.699562
+Tottus,-33.5917431,-70.7038582
+Unimarc,-33.4028684,-71.1292949
+Unimarc,-33.2309453,-70.8076518
+Unimarc,-33.2938859,-70.8682015
+Unimarc,-33.4704962,-70.5911147
+Unimarc,-33.5392931,-70.590867
+Unimarc,-33.5133757,-70.6061202
+Unimarc,-33.5267162,-70.5963419
+Unimarc,-33.5351943,-70.5557076
+Unimarc,-33.5807162,-70.5809208
+Unimarc,-33.590141,-70.555998
+Unimarc,-33.6397424,-70.7031567
+Unimarc,-33.4188648,-70.697657
+Unimarc,-33.7329814,-70.7391662
+Unimarc,-33.7347499,-70.6838564
+Unimarc,-33.731065,-70.7746145
+Unimarc,-33.7629736,-70.742802
+Unimarc,-33.4152959,-70.5851582
+Unimarc,-33.4266524,-70.5635846
+Unimarc,-33.4113567,-70.5667272
+Unimarc,-33.5037182,-70.6556036
+Unimarc,-33.4413613,-70.6389285
+Unimarc,-33.4419894,-70.6491018
+Unimarc,-33.4388169,-70.6586601
+Unimarc,-33.3812576,-70.5903869
+Unimarc,-33.3986558,-70.5865957
+Unimarc,-33.4400744,-70.5559621
+Unimarc,-33.4194361,-70.6703343
+Unimarc,-33.4379894,-70.6159936
+Unimarc,-33.4377748,-70.6064824
+Unimarc,-33.4839565,-70.5479644
+Unimarc,-33.3988462,-70.672536
+Unimarc,-33.4487389,-70.8442334
+Unimarc,-33.4443568,-70.7411005
+Unimarc,-33.3643804,-70.4944896
+Unimarc,-33.5170699,-70.6592747
+Unimarc,-33.4003436,-70.7442598
+Unimarc,-33.3504632,-70.6708078
+Unimarc,-33.3575379,-70.5395314
+Unimarc,-33.5062992,-70.6381078
+Unimarc,-33.6648663,-70.9306681
+Mayorista 10 ,-33.464692,-70.7228872
+Mayorista 10 ,-33.4666912,-70.7242088
+Mayorista 10 ,-33.6191757,-70.7002126
+Mayorista 10 ,-33.5943466,-70.701804
+Mayorista 10 ,-33.6120176,-70.695454
+Mayorista 10 ,-33.5854485,-70.6987361
+Mayorista 10 ,-33.5421213,-70.664758
+Mayorista 10 ,-33.72932,-70.73982
+Mayorista 10 ,-33.6076921,-70.8992997
+Mayorista 10 ,-33.4448161,-70.7303213
+Mayorista 10 ,-33.5542467,-70.6023927
+Mayorista 10 ,-33.5203164,-70.5989889
+Mayorista 10 ,-33.5351247,-70.5719507
+Mayorista 10 ,-33.5268802,-70.635522
+Mayorista 10 ,-33.2019441,-70.6736335
+Mayorista 10 ,-33.4443658,-70.7486777
+Mayorista 10 ,-33.5056678,-70.6375148
+Mayorista 10 ,-33.5012571,-70.7404035
+Mayorista 10 ,-33.4037208,-70.6325075
+Mayorista 10 ,-33.5078205,-70.7261322
+Mayorista 10 ,-33.5500357,-70.5657646
+Mayorista 10 ,-33.5772106,-70.574149
+Mayorista 10 ,-33.568835,-70.5832679
+Mayorista 10 ,-33.483568,-70.613676
+Mayorista 10 ,-33.5063161,-70.5797356
+Mayorista 10 ,-33.51039,-70.6563703
+Mayorista 10 ,-33.4736613,-70.6489119
+Mayorista 10 ,-33.4340457,-70.6500215
+ALVI,-33.5463158,-70.6339389
+ALVI,-33.6671317,-70.9285577
+ALVI,-33.3627663,-70.7362823
+ALVI,-33.4551526,-70.7390412
+ALVI,-33.3792891,-70.5282597
+ALVI,-33.4433794,-70.7126768
+ALVI,-33.4746398,-70.7408752
+ALVI,-33.5815208,-70.5817482
+ALVI,-33.5614344,-70.6806822
+ALVI,-33.3902435,-70.6765698
+ALVI,-33.4294128,-70.7268576
+ALVI,-33.5879659,-70.6280626
+ALVI,-33.5111523,-70.6374416
+ALVI,-33.4123264,-70.6442014
+ALVI,-33.4066977,-70.6997132
+ALVI,-33.443823,-70.752852
+ALVI,-33.6161273,-70.6095996
+Comercial Castro,-33.7317618,-70.7482016
+Comercial Castro,-33.3990499,-70.6431262
+Comercial Castro,-33.5943165,-70.6844837
+Comercial Castro,-33.4822969,-70.6858493
+Comercial Castro,-33.6002818,-70.7111312
+Comercial Castro,-33.6295697,-70.7643074
+ERBI,-33.4479408,-70.6352452
+ERBI,-33.4234344,-70.639947
+ERBI,-33.457596,-70.6493619
+ERBI,-33.4356463,-70.6799067
+ERBI,-33.4426407,-70.5958164
+ERBI,-33.4800822,-70.6760266
+ERBI,-33.4810122,-70.5997573
+ERBI,-33.5002092,-70.7191004
+ERBI,-33.5284303,-70.6622255
+ERBI,-33.511227,-70.719129
+ERBI,-33.4256396,-70.5342558
+ERBI,-33.3762939,-70.5448534
+ERBI,-33.5212913,-70.7734598
+ERBI,-33.3285242,-70.5201253
+ERBI,-33.4560169,-70.6438582
+ERBI,-33.367006,-70.688901
+ERBI,-33.2361186,-70.672107
+ERBI,-33.4041073,-71.1335697
+ERBI,-33.493282,-70.6526527
+ERBI,-33.4922627,-70.6675926
+ERBI,-33.491743,-70.7149187
+ERBI,-33.6371579,-70.7081581
+Unimarc ,-33.54373083,-70.7795727
+Unimarc,-33.5418088,-70.77094836
+Unimarc ,-33.53225429,-70.77484506
+Unimarc ,-33.53115527,-70.79249392
+Lider ,-33.52792293,-70.77787734
+Unimarc ,-33.48857747,-70.74287619
+Tottus ,-33.55349949,-70.67625649
+Alvi ,-33.57378059,-70.69051386
+Unimarc,-33.46320079,-70.62017187
+Unimarc,-33.45417175,-70.58316561
+Unimarc,-33.45303164,-70.61277724
+Unimarc,-70.62586153,-33.45551549
+Unimarc,-33.44842737,-70.5981368
+Tottus ,-33.40063721,-33.40063721
+Unimarc,-33.37652243,-70.56900133
+Tottus,-33.27877759,-70.62790922
+Superbodega Acuenta,-33.366382,-70.714531
